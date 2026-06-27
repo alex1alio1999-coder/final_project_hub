@@ -14,3 +14,5 @@ for i in range(9000):
     for j in range(5):
         color("#F55AA2")
         goto(0,0)
+        
+print("i love python....!")
